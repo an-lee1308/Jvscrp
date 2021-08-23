@@ -53,5 +53,4 @@ var courses=[
 //     console.log(index,course)
 // })
 // console.log(document)
-var headingNode = document.getElementById('hehe')
-console.log(headingNode)
+console.log(1)
