@@ -45,7 +45,7 @@
 //     }
 //     return output;
 // }
-// var filtercourse=courses.filter2(function(course,index,array){
+// var filterCourse=courses.filter2(function(course,index,array){
 //     return  course.coin>1000;
 // })
 // console.log(filtercourse)
