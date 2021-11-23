@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "HTML, CSS từ Zero đến Hero",
+      "description": "Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+      "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/2/2.jpeg"
+    },
+    {
+      "id": 2,
+      "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học.",
+      "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/1/1.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Kiến Thức Nhập Môn",
+      "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+      "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/7/7.jpeg"
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "title": "Responsive Với Grid System",
+      "description": "Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+      "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/3/3.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Node & ExpressJS",
+      "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.",
+      "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/6/6.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "HTML, CSS Tips & Tricks",
+      "description": "Tutorials về HTML, CSS, UI, UX sẽ được tổng hợp tại khóa học này, các video có nội dung ngắn gọn, súc tích giúp học viên có thể ứng dụng ngay vào thực tế",
+      "thumbnail_cdn": "https://cdn.fullstack.edu.vn/f8-learning/courses/5/5.jpeg"
+    }
+  ]
+}

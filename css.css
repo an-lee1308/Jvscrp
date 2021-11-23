@@ -1,7 +1,13 @@
+body    {
+    box-sizing: inherit;
+
+
+}
+
 div    {
     overflow: hidden;
     white-space: nowrap;
-text-overflow: ellipsis;
+    text-overflow: ellipsis;
     color: red;
 }
 .hh {
